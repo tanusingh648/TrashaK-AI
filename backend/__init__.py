@@ -1,0 +1,1 @@
+"""TRASHAK AI - Backend Package."""
